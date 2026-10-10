@@ -1,0 +1,15 @@
+# Secretos: nunca subir a GitHub
+detector/webhook.txt
+detector/gemini_key.txt
+
+# Registro local de uso de Gemini
+detector/gemini_uso.json
+
+# Archivos temporales de Python
+__pycache__/
+
+# Datos de los organizadores: solo se sube la corrida de ejemplo (data/gracko),
+# suficiente para la demo. El kit completo se descarga de los organizadores.
+data/*
+!data/gracko/
+scripts/

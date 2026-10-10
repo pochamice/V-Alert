@@ -1,0 +1,4 @@
+tenant,timestamp,confianza,tipo
+gracko,2026-10-09T21:29:00,0.70,deriva_disco
+gracko,2026-10-12T22:11:00,0.55,acceso_masivo_vpn
+gracko,2026-10-13T19:03:00,0.62,cpu_elevada
